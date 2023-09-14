@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Curriculum vitae](https://joshua-a69.github.io/School_Projects/seprates)
 
-- 🌱 I’m currently learning **Javascript,Php,XAMPP,Node.js,and Bootstrap**
+- 🌱 I’m currently learning **Javascript,Php,XAMPP,Node.js,Bootstrap,and Data structures&Algorithms**
 
 - 📫 How to reach me **ujoshua368@gmail.com**
 
