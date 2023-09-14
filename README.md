@@ -17,9 +17,6 @@
 <a href="https://www.linkedin.com/in/joshua-russel-uy-a9b024243/">
             <img src="https://i.postimg.cc/bY64jY3D/Linkedin-logo.png" alt="LinkedIn Logo" width="50px" height="35px"> 
           </a>
-          <a href="https://github.com/JOSHUA-A69">
-            <img src="https://i.postimg.cc/PfB9qVnT/GitHub.png" alt="GitHub Logo" width="50px" height="35px"> 
-          </a>
           <a href="https://www.facebook.com/joshua.uy.14">
             <img src="https://i.postimg.cc/mgVm78Jc/logo-Meta.png" alt="Meta Logo" width="50px" height="35px" > 
           </a>
