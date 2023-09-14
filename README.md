@@ -34,4 +34,3 @@
   </a>
 </p>
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/top-langs?username=joshua-a69&show_icons=true&locale=en&layout=compact&theme=monokai)
