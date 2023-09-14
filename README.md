@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, Joshua</h1>
-<h3 align="center">I'm a passionate programmer!</h3>
+<p align="center">I am Joshua Russel Uy, hailing from the picturesque province of Bohol, Philippines. I take pride in my cooperative spirit, resilience, and unwavering determination. I am adept at adapting to diverse situations and maintaining composure under pressure. My approach to challenges involves innovative problem-solving and continuous self-improvement. I am committed to cultivating meaningful relationships, demonstrating empathy, and embracing a calm and thoughtful demeanor. I set daily goals and value authenticity and genuineness in all interactions.
+  
+I want to work in IT, and I'm considering becoming a software engineer, a web developer who focuses on the front-end, or someone who uses a certain set of tools and languages.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshua-a69" alt="joshua-a69" /></a> </p>
 
