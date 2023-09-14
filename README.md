@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Joshua</h1>
-<h3 align="center">WELCOME TO MY PAGE!</h3>
+<h1 align="center">Hi I'm, Joshua</h1>
+<h3 align="center"> and WELCOME TO MY PAGE!</h3>
 
 - 🔭 I’m currently working on [Curriculum vitae](https://joshua-a69.github.io/School_Projects/seprates)
 
