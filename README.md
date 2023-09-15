@@ -1,3 +1,4 @@
+   <p align="left"><img src="https://komarev.com/ghpvc/?username=joshua-a69&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-a69" /></p>
 <h1 align="center">Hi I'm, Joshua</h1>
 <h3 align="center"> and WELCOME TO MY PAGE!</h3>
 
@@ -42,4 +43,4 @@
             <img src="https://i.postimg.cc/mgVm78Jc/logo-Meta.png" alt="Meta Logo" width="50px" height="35px" > 
           </a>
 
-          <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshua-a69&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-a69" /> </p>
+       
