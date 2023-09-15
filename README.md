@@ -31,8 +31,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
 </p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-a69&show_icons=true&locale=en&layout=compact" alt="joshua-a69" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-a69&show_icons=true&locale=en&layout=compact" alt="joshua-a69" /></p>
+
 <h1>Profiles</h1>
 <a href="https://www.linkedin.com/in/joshua-russel-uy-a9b024243/">
             <img src="https://i.postimg.cc/bY64jY3D/Linkedin-logo.png" alt="LinkedIn Logo" width="50px" height="35px"> 
