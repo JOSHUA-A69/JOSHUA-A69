@@ -41,3 +41,5 @@
           <a href="https://www.facebook.com/joshua.uy.14">
             <img src="https://i.postimg.cc/mgVm78Jc/logo-Meta.png" alt="Meta Logo" width="50px" height="35px" > 
           </a>
+
+          <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshua-a69&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-a69" /> </p>
