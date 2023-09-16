@@ -11,34 +11,34 @@
 <h3 align="left">Languages and Tools that I'm capable of using:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
   </a>
    <a href="https://www.html.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">
   </a>
   <a href="https://www.css.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
   </a>
   <a href="https://www.php.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40">
   </a>
    <a href="https://www.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/6qjDCq1G/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="Visual Studio Code" width="100" height="60">
+    <img src="https://i.postimg.cc/6qjDCq1G/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="Visual Studio Code" width="40" height="40">
   </a>
     <a href="https://www.commandline.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/rwFNvgsc/Command-Line-Icon.png" alt="Command Line" width="100" height="60">
+    <img src="https://i.postimg.cc/rwFNvgsc/Command-Line-Icon.png" alt="Command Line" width="40" height="40">
   </a>
   <a href="https://www.powershell.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/PqbfYbbp/powershell-logo-5.png" alt="PowerShell" width="100" height="60">
+    <img src="https://i.postimg.cc/PqbfYbbp/powershell-logo-5.png" alt="PowerShell" width="40" height="40">
   </a>
   <a href="https://www.github.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/h4knkRh8/GitHub.png" alt="GitHub" width="100" height="60">
+    <img src="https://i.postimg.cc/h4knkRh8/GitHub.png" alt="GitHub" width="40" height="40">
   </a>
   <a href="https://www.xampp.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/SNKGPDJ4/xampp-logo-png-transparent.png" alt="XAMPP" width="100" height="60">
+    <img src="https://i.postimg.cc/SNKGPDJ4/xampp-logo-png-transparent.png" alt="XAMPP" width="40" height="40">
   </a>
   </a>
 </p>
