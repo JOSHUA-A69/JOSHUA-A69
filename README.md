@@ -1,4 +1,4 @@
-   <p align="left"><img src="https://komarev.com/ghpvc/?username=joshua-a69&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-a69" /></p>
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=joshua-a69&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-a69" /></p>
 <h1 align="center">Hi I'm, Joshua</h1>
 <h3 align="center"> and WELCOME TO MY PAGE!</h3>
 
@@ -21,12 +21,6 @@
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.nodejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.php.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
