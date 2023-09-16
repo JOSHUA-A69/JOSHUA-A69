@@ -25,20 +25,21 @@
   <a href="https://www.php.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
-  <a href="https://www.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/sDdKFTzG/visual-studio-code-4096.png" alt="Visual Studio Code" width="40" height="40"/>
+   <a href="https://www.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://i.postimg.cc/6qjDCq1G/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="Visual Studio Code" width="100" height="60">
   </a>
     <a href="https://www.commandline.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/YSCB6py7/mozhi-commandprompt1.png" alt="Command Line" width="40" height="40"/>
+    <img src="https://i.postimg.cc/rwFNvgsc/Command-Line-Icon.png" alt="Command Line" width="100" height="60">
   </a>
   <a href="https://www.powershell.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/sDYkbBky/icons8-powershell-480.png" alt="PowerShell" width="40" height="40"/>
+    <img src="https://i.postimg.cc/PqbfYbbp/powershell-logo-5.png" alt="PowerShell" width="100" height="60">
   </a>
   <a href="https://www.github.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/h4knkRh8/GitHub.png" alt="GitHub" width="40" height="40"/>
+    <img src="https://i.postimg.cc/h4knkRh8/GitHub.png" alt="GitHub" width="100" height="60">
   </a>
   <a href="https://www.xampp.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/q75X1LQR/XAMPP-logo.png" alt="XAMPP" width="40" height="40"/>
+    <img src="https://i.postimg.cc/SNKGPDJ4/xampp-logo-png-transparent.png" alt="XAMPP" width="100" height="60">
+  </a>
   </a>
 </p>
 
