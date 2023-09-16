@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ujoshua368@gmail.com**
   
-<h3 align="left">Languages and Tools that I'm capable of using:</h3>
+  <h3 align="left">Languages and Tools that I'm capable of using:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -30,6 +30,12 @@
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="INSERT_VISUAL_STUDIO_CODE_ICON_URL_HERE" alt="Visual Studio Code" width="40" height="40"/>
+  </a>
+  <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
+    <img src="INSERT_XAMPP_ICON_URL_HERE" alt="XAMPP" width="40" height="40"/>
   </a>
 </p>
 
