@@ -32,10 +32,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="INSERT_VISUAL_STUDIO_CODE_ICON_URL_HERE" alt="Visual Studio Code" width="40" height="40"/>
+    <img src="https://i.postimg.cc/sDdKFTzG/visual-studio-code-4096.png" alt="Visual Studio Code" width="40" height="40"/>
   </a>
   <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
-    <img src="INSERT_XAMPP_ICON_URL_HERE" alt="XAMPP" width="40" height="40"/>
+    <img src="https://i.postimg.cc/q75X1LQR/XAMPP-logo.png" alt="XAMPP" width="40" height="40"/>
   </a>
 </p>
 
