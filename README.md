@@ -32,19 +32,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="INSERT_VISUAL_STUDIO_CODE_ICON_URL_HERE" alt="Visual Studio Code" width="40" height="40"/>
+    <img src="https://i.postimg.cc/sDdKFTzG/visual-studio-code-4096.png" alt="Visual Studio Code" width="40" height="40"/>
   </a>
   <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
-    <img src="INSERT_XAMPP_ICON_URL_HERE" alt="XAMPP" width="40" height="40"/>
+    <img src="https://i.postimg.cc/q75X1LQR/XAMPP-logo.png" alt="XAMPP" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="INSERT_GITHUB_ICON_URL_HERE" alt="GitHub" width="40" height="40"/>
+    <img src="https://i.postimg.cc/h4knkRh8/GitHub.png" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701" target="_blank" rel="noreferrer">
-    <img src="INSERT_COMMAND_LINE_ICON_URL_HERE" alt="Command Line" width="40" height="40"/>
+    <img src="https://i.postimg.cc/YSCB6py7/mozhi-commandprompt1.png" alt="Command Line" width="40" height="40"/>
   </a>
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-    <img src="INSERT_POWERSHELL_ICON_URL_HERE" alt="PowerShell" width="40" height="40"/>
+    <img src="https://i.postimg.cc/sDYkbBky/icons8-powershell-480.png" alt="PowerShell" width="40" height="40"/>
   </a>
 </p>
 
