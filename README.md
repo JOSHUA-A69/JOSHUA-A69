@@ -13,11 +13,11 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
+   <a href="https://www.html.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
   <a href="https://www.css.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.html.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -28,17 +28,17 @@
   <a href="https://www.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://i.postimg.cc/sDdKFTzG/visual-studio-code-4096.png" alt="Visual Studio Code" width="40" height="40"/>
   </a>
-  <a href="https://www.xampp.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/q75X1LQR/XAMPP-logo.png" alt="XAMPP" width="40" height="40"/>
-  </a>
-  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/h4knkRh8/GitHub.png" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://www.commandline.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.commandline.com/" target="_blank" rel="noreferrer">
     <img src="https://i.postimg.cc/YSCB6py7/mozhi-commandprompt1.png" alt="Command Line" width="40" height="40"/>
   </a>
   <a href="https://www.powershell.com/" target="_blank" rel="noreferrer">
     <img src="https://i.postimg.cc/sDYkbBky/icons8-powershell-480.png" alt="PowerShell" width="40" height="40"/>
+  </a>
+  <a href="https://www.github.com/" target="_blank" rel="noreferrer">
+    <img src="https://i.postimg.cc/h4knkRh8/GitHub.png" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.xampp.com/" target="_blank" rel="noreferrer">
+    <img src="https://i.postimg.cc/q75X1LQR/XAMPP-logo.png" alt="XAMPP" width="40" height="40"/>
   </a>
 </p>
 
