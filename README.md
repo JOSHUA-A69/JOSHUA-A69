@@ -5,6 +5,8 @@
 - 🔭 I’m currently working on [Curriculum vitae](https://joshua-a69.github.io/School-Projects/seprates)
 
 - 🌱 I’m currently learning **Javascript,Php,XAMPP,Bootstrap,Data structures&Algorithms,and Responsive web design**
+  
+- 💬 Learn C **https://joshua-a69.github.io/C-Documentation/C%20documentation.html**
 
 - 📫 How to reach me **ujoshua368@gmail.com**
   
