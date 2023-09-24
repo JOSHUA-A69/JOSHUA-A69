@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript,Php,XAMPP,Bootstrap,Data structures&Algorithms,and Responsive web design**
   
-- 💬 Learn C **https://joshua-a69.github.io/C-Documentation/C%20documentation.html**
+- 💬 Learn C <a href="https://joshua-a69.github.io/C-Documentation/C%20documentation.html">C Documentation</a>
 
 - 📫 How to reach me **ujoshua368@gmail.com**
   
