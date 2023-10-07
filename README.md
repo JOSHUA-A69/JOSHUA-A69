@@ -1,4 +1,4 @@
-  <p align="left"><img src="https://komarev.com/ghpvc/?username=joshua-a69&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-a69" /></p>
+ <p align="left"><img src="https://komarev.com/ghpvc/?username=joshua-a69&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-a69" /></p>
 <h1 align="center">Hi I'm, Joshua</h1>
 <h3 align="center"> and WELCOME TO MY PROFILE!</h3>
 
@@ -13,24 +13,24 @@
 <h3 align="left">Languages and Tools that I'm capable of using:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
   </a>
-   <a href="https://www.html.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">
+  <a href="https://www.html.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
   </a>
   <a href="https://www.css.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
   </a>
   <a href="https://www.php.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
   </a>
-   <a href="https://www.visualstudio.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://i.postimg.cc/6qjDCq1G/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="Visual Studio Code" width="40" height="40">
   </a>
-    <a href="https://www.commandline.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.commandline.com/" target="_blank" rel="noreferrer">
     <img src="https://i.postimg.cc/rwFNvgsc/Command-Line-Icon.png" alt="Command Line" width="40" height="40">
   </a>
   <a href="https://www.powershell.com/" target="_blank" rel="noreferrer">
@@ -42,11 +42,14 @@
   <a href="https://www.xampp.com/" target="_blank" rel="noreferrer">
     <img src="https://i.postimg.cc/SNKGPDJ4/xampp-logo-png-transparent.png" alt="XAMPP" width="40" height="40">
   </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40">
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-a69&show_icons=true&locale=en&layout=compact" alt="joshua-a69" /></p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-a69&show_icons=true&locale=en&layout=compact" alt="joshua-a69" />
 <h1>Profiles</h1>
 <a href="https://www.linkedin.com/in/joshua-russel-uy-a9b024243/">
             <img src="https://i.postimg.cc/bY64jY3D/Linkedin-logo.png" alt="LinkedIn Logo" width="50px" height="35px"> 
