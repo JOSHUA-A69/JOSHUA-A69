@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm, Joshua</h1>
 <h3 align="center"> and WELCOME TO MY PROFILE!</h3>
 
-- 🔭 I’m currently working on [waiting...]
+- 🔭 I’m currently working on [eCom Website Final Project]
 
 - 🌱 I’m currently learning Everything 
   
