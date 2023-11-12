@@ -50,6 +50,7 @@
 </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-a69&show_icons=true&locale=en&layout=compact" alt="joshua-a69" />
 <h1>Profiles</h1>
+<a href="https://joshua-a69.github.io/School-Projects/seprates">My Personal Website</a>
 <a href="https://www.linkedin.com/in/joshua-russel-uy-a9b024243/">
             <img src="https://i.postimg.cc/bY64jY3D/Linkedin-logo.png" alt="LinkedIn Logo" width="50px" height="35px"> 
           </a>
