@@ -2,11 +2,7 @@
 <h3 align="center"> and WELCOME TO MY PROFILE!</h3>
 
  - 🔭 I’m currently working on [eCOM Website(Camera Shop)](https://joshua-a69.github.io/School-Project-eCom-Website/index.html)
-
 - 🌱 I’m currently learning Everything 
-  
-- 💬 Learn C <a href="https://joshua-a69.github.io/C-Documentation/C%20documentation.html">(C Documentation)</a>
-
 - 📫 How to reach me **ujoshua368@gmail.com**
   
 <h3 align="left">Languages and Tools that I'm capable of using:</h3>
