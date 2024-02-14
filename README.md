@@ -5,7 +5,7 @@
     <li>🌱 I’m currently learning Everything</li>
     <li>📫 How to reach me: <a href="mailto:ujoshua368@gmail.com">ujoshua368@gmail.com</a></li>
   </ul>
-  <h3 style="text-align: center; color: #333;">Languages and Tools:</h3>
+  <h3 style="text-align: center; color: #333;">Languages and Tools that I'm capable of using:</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
     <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width: 60px; height: 60px; transition: transform 0.3s ease;"></a>
     <a href="https://www.html.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width: 60px; height: 60px; transition: transform 0.3s ease;"></a>
