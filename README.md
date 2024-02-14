@@ -21,6 +21,7 @@
     <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" style="width: 60px; height: 60px; transition: transform 0.3s ease;"></a>
   </div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-a69&show_icons=true&locale=en&layout=compact" alt="joshua-a69" />
+  <h3> My Profiles:</h3>
   <div style="display: flex; justify-content: center; margin-top: 20px; gap: 20px;">
     <a href="https://www.linkedin.com/in/joshua-russel-uy-a9b024243/"><img src="https://i.postimg.cc/bY64jY3D/Linkedin-logo.png" alt="LinkedIn Logo" style="width: 60px; height: 60px;"></a>
     <a href="https://www.facebook.com/joshua.uy.14"><img src="https://i.postimg.cc/mgVm78Jc/logo-Meta.png" alt="Meta Logo" style="width: 60px; height: 60px;"></a>
