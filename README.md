@@ -2,7 +2,6 @@
   <h1 style="text-align: center; color: #333; margin-bottom: 20px;">Hi, I'm Joshua</h1>
   <h3 style="text-align: center; color: #333; margin-top: 10px;">Welcome to my profile!</h3>
   <ul>
-    <li>🌱 I’m currently learning Everything</li>
     <li>📫 How to reach me: <a href="mailto:ujoshua368@gmail.com">ujoshua368@gmail.com</a></li>
   </ul>
   <h3 style="text-align: center; color: #333;">Languages and Tools that I'm capable of using:</h3>
