@@ -7,7 +7,7 @@
     <a href="https://www.html.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width: 60px; height: 60px; transition: transform 0.3s ease;"></a>
     <a href="https://www.css.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" style="width: 60px; height: 60px; transition: transform 0.3s ease;"></a>
     <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 60px; height: 60px; transition: transform 0.3s ease;"></a> <a href="https://www.w3schools.com/php/default.asp" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="50">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60">
           </a>
     <a href="https://www.visualstudio.com/"><img src="https://i.postimg.cc/6qjDCq1G/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="Visual Studio Code" style="width: 60px; height: 60px; transition: transform 0.3s ease;"></a>
     <a href="https://www.commandline.com/"><img src="https://i.postimg.cc/rwFNvgsc/Command-Line-Icon.png" alt="Command Line" style="width: 60px; height: 60px; transition: transform 0.3s ease;"></a>
