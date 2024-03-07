@@ -11,9 +11,8 @@
     <a href="https://www.powershell.com/"><img src="https://i.postimg.cc/PqbfYbbp/powershell-logo-5.png" alt="PowerShell" style="width: 60px; height: 60px; transition: transform 0.3s ease;"></a>
     <a href="https://www.github.com/"><img src="https://i.postimg.cc/h4knkRh8/GitHub.png" alt="GitHub" style="width: 60px; height: 60px; transition: transform 0.3s ease;"></a>
     <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" style="width: 60px; height: 60px; transition: transform 0.3s ease;"></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
     <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" style="width: 60px; height: 60px; transition: transform 0.3s ease;"></a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
   </div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-a69&show_icons=true&locale=en&layout=compact" alt="joshua-a69" />
   <h3> My Profiles:</h3>
