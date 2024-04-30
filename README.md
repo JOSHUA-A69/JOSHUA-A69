@@ -1,7 +1,6 @@
 <div style="font-family: Arial, sans-serif; background-color: #f0f0f0; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #fff; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
   <h1 style="text-align: center; color: #333; margin-bottom: 20px;">Hi, I'm Joshua</h1>
   <h3 style="text-align: center; color: #333; margin-top: 10px;">Welcome to my profile!</h3>
-  - 🔭 I’m currently working on <a href="https://joshua-a69.github.io/RyoukouTravel-website-School-Project/LogInPage.html">RyoukouTravel(Travel Blog Website)</a>
   <h3 style="text-align: center; color: #333;">Languages and Tools that I'm capable of using:</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
     <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width: 60px; height: 60px; transition: transform 0.3s ease;"></a>
