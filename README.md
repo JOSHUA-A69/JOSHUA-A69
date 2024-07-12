@@ -21,7 +21,7 @@
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" style="width: 50px; height: 50px; transition: transform 0.3s ease;"></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" style="width: 50px; height: 50px; transition: transform 0.3s ease;"> </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" style="width: 50px; height: 50px; transition: transform 0.3s ease;"> </a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.netlify.com/img/press/logos/logomark.png" alt="Netlify" style="width: 50px; height: 50px; transition: transform 0.3s ease;"> </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/GmXBFSGK/Netlify.webp" alt="Netlify" style="width: 50px; height: 50px; transition: transform 0.3s ease;"> </a>
 </div>
 
  
