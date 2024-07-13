@@ -1,5 +1,6 @@
 <div style="font-family: Arial, sans-serif; background-color: #f0f0f0; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #fff; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
   <h1 style="text-align: center; color: #333; margin-top: 10px;">Welcome to my profile!</h1>
+  <p> Always eager to learn and ready to collaborate, I am dedicated to continuous growth and improvement in my work.</p>
   <h3 style="text-align: center; color: #333;">My Tech Stacks so far:</h3>
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
@@ -29,7 +30,6 @@
   <h3> My Profiles:</h3>
   <ul>
     <li>📫 How to reach me: <a href="mailto:ujoshua368@gmail.com">ujoshua368@gmail.com</a></li>
-    <p> Always eager to learn and ready to collaborate, I am dedicated to continuous growth and improvement in my work.</p>
   </ul>
   <div style="display: flex; justify-content: center; margin-top: 20px; gap: 20px;">
     <a href="https://www.linkedin.com/in/joshua-russel-uy-a9b024243/"><img src="https://i.postimg.cc/bY64jY3D/Linkedin-logo.png" alt="LinkedIn Logo" style="width: 50px; height: 50px;"></a>
