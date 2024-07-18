@@ -4,26 +4,26 @@
   <h3 style="text-align: center; color: #333;">My Tech Stacks so far:</h3>
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width: 50px; height: 50px; transition: transform 0.3s ease;"></a>
-  <a href="https://www.html.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width: 50px; height: 50px; transition: transform 0.3s ease;"></a>
-  <a href="https://www.css.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" style="width: 50px; height: 50px; transition: transform 0.3s ease;"></a>
-  <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 50px; height: 50px; transition: transform 0.3s ease;"></a>
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
+  <a href="https://www.html.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
+  <a href="https://www.css.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
+  <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
   <a href="https://www.w3schools.com/php/default.asp" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" style="width: 50px; height: 50px; transition: transform 0.3s ease;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" style="width: 35px; height: 35px; transition: transform 0.3s ease;">
   </a>
-  <a href="https://www.visualstudio.com/"><img src="https://i.postimg.cc/6qjDCq1G/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="Visual Studio Code" style="width: 50px; height: 50px; transition: transform 0.3s ease;"></a>
-  <a href="https://www.commandline.com/"><img src="https://i.postimg.cc/rwFNvgsc/Command-Line-Icon.png" alt="Command Line" style="width: 50px; height: 50px; transition: transform 0.3s ease;"></a>
-  <a href="https://www.powershell.com/"><img src="https://i.postimg.cc/PqbfYbbp/powershell-logo-5.png" alt="PowerShell" style="width: 50px; height: 50px; transition: transform 0.3s ease;"></a>
-  <a href="https://www.github.com/"><img src="https://i.postimg.cc/h4knkRh8/GitHub.png" alt="GitHub" style="width: 50px; height: 50px; transition: transform 0.3s ease;"></a>
+  <a href="https://www.visualstudio.com/"><img src="https://i.postimg.cc/6qjDCq1G/visual-studio-logo-png-visual-studio-code-logo-is-offensive-to-me-issue-87419-1200x1200.png" alt="Visual Studio Code" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
+  <a href="https://www.commandline.com/"><img src="https://i.postimg.cc/rwFNvgsc/Command-Line-Icon.png" alt="Command Line" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
+  <a href="https://www.powershell.com/"><img src="https://i.postimg.cc/PqbfYbbp/powershell-logo-5.png" alt="PowerShell" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
+  <a href="https://www.github.com/"><img src="https://i.postimg.cc/h4knkRh8/GitHub.png" alt="GitHub" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
   <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/7PpWvcdY/XAMPP-logo.png" alt="XAMPP" style="width: 50px; height: 50px; transition: transform 0.3s ease;">
+    <img src="https://i.postimg.cc/7PpWvcdY/XAMPP-logo.png" alt="XAMPP" style="width: 35px; height: 35px; transition: transform 0.3s ease;">
   </a>
-  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" style="width: 50px; height: 50px; transition: transform 0.3s ease;"></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" style="width: 50px; height: 50px; transition: transform 0.3s ease;"></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" style="width: 50px; height: 50px; transition: transform 0.3s ease;"> </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" style="width: 50px; height: 50px; transition: transform 0.3s ease;"> </a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/GmXBFSGK/Netlify.webp" alt="Netlify" style="width: 50px; height: 50px; transition: transform 0.3s ease;"> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="width: 50px; height: 50px; transition: transform 0.3s ease;"></a> 
+  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" style="width: 35px; height: 35px; transition: transform 0.3s ease;"> </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" style="width: 35px; height: 35px; transition: transform 0.3s ease;"> </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/GmXBFSGK/Netlify.webp" alt="Netlify" style="width: 35px; height: 35px; transition: transform 0.3s ease;"> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a> 
 </div>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-a69&show_icons=true&locale=en&layout=compact" alt="joshua-a69" /></p>-->
