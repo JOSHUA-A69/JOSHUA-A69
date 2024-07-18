@@ -33,8 +33,8 @@
     <li>📫 How to reach me: <a href="mailto:ujoshua368@gmail.com">ujoshua368@gmail.com</a></li>
   </ul>
   <div style="display: flex; justify-content: center; margin-top: 20px; gap: 20px;">
-    <a href="https://www.linkedin.com/in/joshua-russel-uy-a9b024243/"><img src="https://i.postimg.cc/bY64jY3D/Linkedin-logo.png" alt="LinkedIn Logo" style="width: 50px; height: 50px;"></a>
-    <a href="https://www.facebook.com/joshua.uy.14"><img src="https://i.postimg.cc/mgVm78Jc/logo-Meta.png" alt="Meta Logo" style="width: 50px; height: 50px;"></a>
+    <a href="https://www.linkedin.com/in/joshua-russel-uy-a9b024243/"><img src="https://i.postimg.cc/bY64jY3D/Linkedin-logo.png" alt="LinkedIn Logo" style="width: 35px; height: 35px;"></a>
+    <a href="https://www.facebook.com/joshua.uy.14"><img src="https://i.postimg.cc/mgVm78Jc/logo-Meta.png" alt="Meta Logo" style="width: 35px; height: 35px;"></a>
   </div>
 </div>
        
