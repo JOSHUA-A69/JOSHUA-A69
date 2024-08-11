@@ -87,15 +87,15 @@
         <img src="https://i.postimg.cc/GmXBFSGK/Netlify.webp" alt="Netlify" style="width: 35px; height: 35px; transition: transform 0.3s ease;">
       </a>
      <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" style="width: 35px; height: 35px; transition: transform 0.3s ease;"><
-     </a><br>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" style="width: 35px; height: 35px; transition: transform 0.3s ease;">
+     </a>
     </div>
     </div>
     </div>
   </div>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-a69&show_icons=true&locale=en&layout=compact" alt="joshua-a69" /></p>
+<br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-a69&show_icons=true&locale=en&layout=compact" alt="joshua-a69" /></p>
   
   <h3> My Profiles:</h3>
   <ul>
