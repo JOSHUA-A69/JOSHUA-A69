@@ -27,6 +27,9 @@
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" style="width: 35px; height: 35px; transition: transform 0.3s ease;">
+</a>
 </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-a69&show_icons=true&locale=en&layout=compact" alt="joshua-a69" /></p>
