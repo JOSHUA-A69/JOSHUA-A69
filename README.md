@@ -87,8 +87,8 @@
         <img src="https://i.postimg.cc/GmXBFSGK/Netlify.webp" alt="Netlify" style="width: 35px; height: 35px; transition: transform 0.3s ease;">
       </a>
      <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" style="width: 35px; height: 35px; transition: transform 0.3s ease;"><br>
-     </a>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" style="width: 35px; height: 35px; transition: transform 0.3s ease;"><
+     </a><br>
     </div>
     </div>
     </div>
