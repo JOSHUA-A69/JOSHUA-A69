@@ -49,10 +49,8 @@
       <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
       <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/GmXBFSGK/Netlify.webp" alt="Netlify" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
       <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" style="width: 35px; height: 35px; transition: transform 0.3s ease;"></a>
-     a>
     </div>
   </div>
-</div>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-a69&show_icons=true&locale=en&layout=compact" alt="joshua-a69" /></p>
