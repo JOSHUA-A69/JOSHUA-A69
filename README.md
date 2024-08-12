@@ -6,7 +6,16 @@ Always eager to learn and ready to collaborate, I am dedicated to continuous gro
 
 ## My Tech Stacks so far:
 
-### Front End
+<p align="center">
+  <table>
+    <tr>
+      <th>Front End</th>
+      <th>Back End</th>
+      <th>Languages</th>
+      <th>Tools</th>
+    </tr>
+    <tr>
+      <td>
 
 | HTML5 | CSS3 | JavaScript |
 |:-----:|:----:|:----------:|
@@ -16,19 +25,22 @@ Always eager to learn and ready to collaborate, I am dedicated to continuous gro
 |:---------:|:-----:|:-----:|:------:|
 | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux) | ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) |
 
-### Back End
+      </td>
+      <td>
 
 | Node.js | PHP | MySQL | MariaDB |
 |:-------:|:---:|:-----:|:-------:|
 | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
 
-### Languages
+      </td>
+      <td>
 
 | C |
 |:---:|
 | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
 
-### Tools
+      </td>
+      <td>
 
 | Visual Studio Code | Command Line | PowerShell |
 |:------------------:|:------------:|:----------:|
@@ -38,9 +50,20 @@ Always eager to learn and ready to collaborate, I am dedicated to continuous gro
 |:------:|:----:|:---:|:-------:|:---:|
 | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) | ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify) | ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white) |
 
+      </td>
+    </tr>
+  </table>
+</p>
+
 ## My Profiles:
 - 📫 How to reach me: [ujoshua368@gmail.com](mailto:ujoshua368@gmail.com)
 
 ### Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-russel-uy-a9b024243/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/joshua.uy.14)
+<p align="center">
+  <a href="https://www.linkedin.com/in/joshua-russel-uy-a9b024243/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/joshua.uy.14">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
