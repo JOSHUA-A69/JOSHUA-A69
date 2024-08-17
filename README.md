@@ -34,6 +34,9 @@ Always eager to learn and ready to collaborate, I am dedicated to continuous gro
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
+<br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-a69&show_icons=true&locale=en&layout=compact" alt="joshua-a69" /></p>
+  
+
 ## My Profiles:
 - 📫 How to reach me: [ujoshua368@gmail.com](mailto:ujoshua368@gmail.com)
 
