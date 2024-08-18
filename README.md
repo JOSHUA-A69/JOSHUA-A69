@@ -2,10 +2,7 @@
 
 I'm Joshua, a passionate developer. I enjoy tackling challenges head-on and am constantly driven to learn new skills and techniques.
 
-Always eager to learn and ready to collaborate, I am dedicated to continuous growth and improvement in my work. 
-I believe that staying curious and open to new ideas is key to innovation, and I strive to apply this mindset in every project I undertake.
-Whether working independently or as part of a team, I am committed to delivering high-quality results and contributing positively to any environment 
-I am a part of.
+Always eager to learn and ready to collaborate, I am dedicated to continuous growth and improvement in my work. I believe that staying curious and open to new ideas is key to innovation, and I strive to apply this mindset in every project I undertake. Whether working independently or as part of a team, I am committed to delivering high-quality results and contributing positively to any environment I am a part of.
 
 ## 🛠 My Tech Stacks:
 
