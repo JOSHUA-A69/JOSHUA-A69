@@ -24,7 +24,7 @@ Always eager to learn and collaborate, I’m dedicated to continuous growth and 
   <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" />
 
   <!-- Tools -->
- <img src="https://cdn.simpleicons.org/visualstudiocode" width="40" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.png" width="40" height="40" alt="VS Code" />
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" width="40" height="40" alt="npm" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker" />
