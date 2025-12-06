@@ -36,7 +36,7 @@ Always eager to learn and collaborate, I’m dedicated to continuous growth and 
 
 ## 📊 My Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-a69&show_icons=true&locale=en&layout=compact&theme=react" alt="joshua-a69" />
+ https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-a69&layout=compact&theme=react&cache_seconds=86400
 </p>
 
 ---
