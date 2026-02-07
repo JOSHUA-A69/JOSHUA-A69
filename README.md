@@ -1,4 +1,4 @@
-# 👋 Welcome to my profile!
+#  Welcome to my profile!
 
 I'm **Joshua**, a passionate developer who enjoys tackling challenges head-on and constantly learning new skills and techniques.
 
@@ -36,11 +36,11 @@ Always eager to learn and collaborate, I’m dedicated to continuous growth and 
 ---
 ---
 
-## 🌐 My Profiles
+## My Profiles
 
 - 📫 Reach me at: [ujoshua368@gmail.com](mailto:ujoshua368@gmail.com)
 
-### 🤝 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-russel-uy-a9b024243/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/joshua.uy.14)
