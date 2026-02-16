@@ -12,7 +12,7 @@ Always eager to learn and collaborate, I’m dedicated to continuous growth and 
   <!-- Frontend -->
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" height="40" alt="Bootstrap" />
+  
 
   <!-- Backend -->
   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL" />
