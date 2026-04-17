@@ -8,29 +8,22 @@ Always eager to learn and collaborate, I’m dedicated to continuous growth and 
 
 ## 🛠 My Main Tech Stacks
 
+
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React" />
-  
-
-  <!-- Backend -->
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="40" height="40" alt="PHP" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40" alt="Laravel" />
-
-  <!-- Languages -->
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" width="40" height="40" alt="npm" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40" alt="Composer" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" alt="Vercel" />
-  <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40" alt="Render" />
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="40" />
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" />
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" />
+<img src="https://cdn.simpleicons.org/php/777BB4" width="40" />
+<img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" />
+<img src="https://cdn.simpleicons.org/python/3776AB" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+<img src="https://cdn.simpleicons.org/git/F05032" width="40" />
+<img src="https://cdn.simpleicons.org/npm/CB3837" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" />
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" />
+<img src="https://cdn.simpleicons.org/vercel/000000" width="40" />
+<img src="https://cdn.simpleicons.org/render/46E3B7" width="40" />
 </p>
 
 ---
